@@ -1,1 +1,7 @@
-vhhgh
+----git commands---
+1.cd--change directory
+2.git--init this command is used to start a new repository.
+3.git--config it helps to set the user name and email address to be used.
+4.git--add  this command add files.
+5.git--commit records file in version history.
+6.git--push it is used to upload local repository to remote repository.
